@@ -1,5 +1,5 @@
 {
-  "name": "neilcrookes/oauth2-ebay",
+  "name": "macropage/oauth2-ebay",
   "description": "eBay OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "keywords": [
     "oauth",
